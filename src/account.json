@@ -1,0 +1,25 @@
+{
+  "accounts": [
+    {
+      "id": "20e5",
+      "email": "sashadavid2209@gmail.com",
+      "password": "Sasha220906",
+      "surname": "Gourdin",
+      "name": "Sasha"
+    },
+    {
+      "id": "c625",
+      "email": "jaaj@gmail.com",
+      "password": "jouj",
+      "surname": "Gourdin",
+      "name": "Sasha"
+    },
+    {
+      "id": "624d",
+      "email": "aurelie.club@gmail.com",
+      "password": "Ta gueule",
+      "surname": "DinDin",
+      "name": "AuAu"
+    }
+  ]
+}
